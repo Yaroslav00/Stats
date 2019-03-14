@@ -1,3 +1,5 @@
 # Stats
 
-## Instalation
+## Installation
+
+git clone 
